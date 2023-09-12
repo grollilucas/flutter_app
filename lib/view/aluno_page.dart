@@ -91,7 +91,7 @@ class _AlunoPageState extends State<AlunoPage> {
                                       await alunoController.deleteAluno(int.parse(snapshot.data![index].id!));
                                       Navigator.pop(context);
                                     },
-                                    child: const Text('OK'),
+                                    child: const Text('Oooooooo'),
                                   ),
                                 ],
                               ),
